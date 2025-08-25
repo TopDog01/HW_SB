@@ -1,0 +1,10 @@
+bream
+whitefish
+crucian
+carp
+perch
+pike
+burbot
+catfish
+sturgeon
+sterlet
